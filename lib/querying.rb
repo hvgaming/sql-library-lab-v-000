@@ -53,8 +53,8 @@ end
   ORDER BY COUNT(books.title) DESC"
 end
      
-46  lib/schema.sql
-@@ -0,0 +1,46 @@
+
+
 -- CREATE TABLE series (
 --     id INTEGER PRIMARY KEY,
 --     title TEXT,
